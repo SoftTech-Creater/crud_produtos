@@ -1,0 +1,25 @@
+{
+  "name": "crud_produtos",
+  "version": "1.0.0",
+  "description": "CRUD de produtos de supermercado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftTech-Creater/crud_produtos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SoftTech-Creater/crud_produtos/issues"
+  },
+  "homepage": "https://github.com/SoftTech-Creater/crud_produtos#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
